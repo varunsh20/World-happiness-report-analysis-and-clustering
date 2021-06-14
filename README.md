@@ -13,6 +13,6 @@ Higher GDP Per Capita, Social Support, Healthy life Expectancy, Freedom To Choos
 
 A web app for this project was built and deployed on streamlit.
 
-[You can view the application here](https://share.streamlit.io/varunsh20/world-happiness-report-analysis-and-clustering/main/app.py)
+[You can view the web application here.](https://share.streamlit.io/varunsh20/world-happiness-report-analysis-and-clustering/main/app.py)
 
 
